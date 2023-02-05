@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795413127333",
+    "project_id": "gestor-b1acf",
+    "storage_bucket": "gestor-b1acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795413127333:android:257c8d856b9e05e9c96d4c",
+        "android_client_info": {
+          "package_name": "com.example.practica_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795413127333-vhrf4bodoq3jmljq44gd0thjo325tn8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUU3PSWD-5VyOU_asWL3B7XDrsmFFWEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795413127333-vhrf4bodoq3jmljq44gd0thjo325tn8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
